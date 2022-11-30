@@ -2,6 +2,8 @@
 
 >Status do projeto: em desenvolvimento
 
+Para rodar este projeto na sua máquina, por favor digite:
+
 ```
-Primeiro arquivo do curso.
+node app.js
 ```
